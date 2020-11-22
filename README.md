@@ -1,0 +1,1 @@
+# fastapi-googletrends-googlenews-vaderSentiment-heroku
